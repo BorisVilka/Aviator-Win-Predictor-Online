@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671959368655",
+    "project_id": "aviator-win-predictor-online",
+    "storage_bucket": "aviator-win-predictor-online.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671959368655:android:0004bc439f3bc4450c88ba",
+        "android_client_info": {
+          "package_name": "winpredictor.game.onlinepred"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671959368655-bnl5spk1c94itiif0p26mds8n0e38715.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe8XUi63snWTLVA2omf9UhsekuMv0mcYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671959368655-bnl5spk1c94itiif0p26mds8n0e38715.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
